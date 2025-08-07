@@ -1,3 +1,7 @@
+# Ceci est un faux spoofer avec un stealer intégré.
+# This is a fake spoofer with an integrated stealer.
+
+
 import os
 import json
 import base64

